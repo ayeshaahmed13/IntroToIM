@@ -11,6 +11,8 @@ here is a word that is *italicated*
 
 here is a word tha is **bold**
 
+![my homework](picture.jpg)
+
 ### why is it so cool
 #### most fabulous most amazinggg
 ##### ayeshaaaaaa
