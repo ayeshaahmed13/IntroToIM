@@ -11,7 +11,7 @@ here is a word that is *italicated*
 
 here is a word tha is **bold**
 
-![my homework](Weekly Schedule.png)
+![my homework](WeeklySchedule.png)
 
 ### why is it so cool
 #### most fabulous most amazinggg
