@@ -1,21 +1,4 @@
 # IntroToIM
-## its so amazing
-this is the first sentence of my first papragrapgh
-my para is so cool
-here is the last sentence
+## Assignment 1
+<img width="1440" alt="Screen Shot 2022-02-01 at 3 19 13 AM" src="https://user-images.githubusercontent.com/98395837/151889825-579e8b3e-50b5-40f9-ae59-d4942c55f8ae.png">
 
-here is the beginning of the second paragrapgh
-here is the end
-
-here is a word that is *italicated*
-
-here is a word tha is **bold**
-
-![my homework](WeeklySchedule.png)
-
-### why is it so cool
-#### most fabulous most amazinggg
-##### ayeshaaaaaa
-1. difficulty #1
-2. difficulty #2
-3. difficulty #4
