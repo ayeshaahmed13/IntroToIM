@@ -1,29 +1,29 @@
 function setup() {
-createCanvas(500, 500, WEBGL);
+createCanvas(500, 500, WEBGL);// defines canvas size and provides a 3D aspect to the cube
 background (0,0,0);
  
 }
 
 function draw() {
-print(mouseX,mouseY);  
+print(mouseX,mouseY); // defines coordinates of the cursor
    
 for (let foo = 18; foo < 492; foo = foo + 1){
-  for (let foo1 = 0; foo1 < 2; foo1 = foo1 + 1){
+  for (let foo1 = 0; foo1 < 2; foo1 = foo1 + 1){ //defines the condition for loop
   stroke(0, 212, 212);
  strokeWeight(4);
   line (random(-400), random(-400),random(400),random(400)); 
   
-  stroke(0,0,0);
+  stroke(0,0,0);// defines different aspects of the rectangle
   strokeWeight(1);
    fill(0,0,0); 
   rect(random(-400), random(-400), random(400), random(400));
   
-  stroke(0,0,0);
+  stroke(0,0,0);// defines different aspects of the circle
   strokeWeight(3);
   fill(200,45,60);
   circle(random(-400), random(-400), random(100));
   
-  stroke(0,0,0);
+  stroke(0,0,0);// defines aspects of a circle
   strokeWeight(2);
   fill(0,0,0);
   triangle(random(400), random(400), random(400), random (400), random(400) , random(400));
@@ -31,7 +31,7 @@ for (let foo = 18; foo < 492; foo = foo + 1){
   }
 }
 
-  //background(200);
+  //background(200);// defines aspects of a cube
   fill(0,0,0);
   rotateX(frameCount * 0.1);
   rotateY(frameCount * 0.1);
