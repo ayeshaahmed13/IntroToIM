@@ -37,3 +37,11 @@ for (let foo = 18; foo < 492; foo = foo + 1){
   rotateY(frameCount * 0.1);
   box(50);
 }
+
+
+
+##Your Process, workrounds and interesting findings##
+The process of making the digital artwork was really a meaningful and rewarding experience however it was equally challenging one because I didn't really know how I  
+could connect my class learnings to what was expected in class. Additionally, I believe I theoretically understood what for and while loops mean however transalating 
+that into practical understanding was herculean. A new aspect that I learnt was how to make a rotating cube at the centre of the artwork and making that more coherent
+with the background changes.
