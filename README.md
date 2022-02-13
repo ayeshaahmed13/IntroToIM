@@ -1,4 +1,4 @@
-# Introduction To Interactive Media
+# Introduction To Interactive Media | Spring 2022
 ## New York University Abu Dhabi
-## Professor Michael Shiloh | Spring 2022
+## Professor Michael Shiloh 
 
