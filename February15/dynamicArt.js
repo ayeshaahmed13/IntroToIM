@@ -1,5 +1,5 @@
 // draw multiple spinning toruses
-//WEBGL helps make the torus interactive
+//WEBGL helps make the torus dynamic
 function setup() {
   createCanvas(400, 400, WEBGL);
   rectMode(CORNERS);
