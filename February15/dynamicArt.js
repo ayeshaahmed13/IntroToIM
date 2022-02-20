@@ -1,11 +1,11 @@
-// draw a spinning torus
-// with ring radius 30 and tube radius 15
+// draw multiple spinning toruses
+//WEBGL helps make the torus interactive
 function setup() {
   createCanvas(400, 400, WEBGL);
   rectMode(CORNERS);
 }
 
-function draw() {
+function draw() { // defining main object( aqua coloured torus)
 
   fill(10, 240, 224);
   stroke(0,0,0);
@@ -14,7 +14,7 @@ function draw() {
   rotateY(frameCount * 0.01);
   torus(60, 15);
   
-  obj = new Torus();
+  obj = new Torus();// defining new objects
   obj.blueTorus();
   obj.redTorus();
   obj.background();
@@ -22,7 +22,7 @@ function draw() {
 
 }
 
-class Torus
+class Torus//create torus class to include other two torsuses
 {
 
   constructor()
@@ -30,7 +30,7 @@ class Torus
     //empty as there is no need
   }
   
-  redTorus()
+  redTorus()// largest red revolving torus
   {
     fill(245, 2, 83);
     stroke(0,0,0);
@@ -40,7 +40,7 @@ class Torus
     torus(100, 30)
   }
   
-  blueTorus()
+   darkblueTorus()//middle dark blue revolving torus
   {
     fill(63, 2, 245);
     stroke(0,0,0);
@@ -50,7 +50,7 @@ class Torus
     torus(80, 23);
   }
   
-  background()
+  background()// absence of background allows creation of black sphere and helps coloured toruses leave a trail
   {
     if (frameCount % 1 == 0) {
       fill(10,240,224);
