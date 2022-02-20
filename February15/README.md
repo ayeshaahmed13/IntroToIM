@@ -13,3 +13,6 @@ https://user-images.githubusercontent.com/98395837/154012136-7ff851b1-5176-447e-
 1. I should let the idea incubate in my head and work on the piece in multiple sittings as opposed to working on it in one sitting.
 2. I should perhaps try to work more with classes and constructors to get a better hang of these operators.
 3. This asssignment has given a me deep understanding of the importance of creating objects and how efficient they make a program.
+
+#### Concept of the Artwork: 
+The concept of the artwork was to utilise vibrant, fluorescent colours to make a revolving centre with a dynamic background.Since I had utilised a rotating box the previous time I wanted to explore more shapes.As for the background, I didn't particularly start with anything in mind, but I just ran across it while I was trying diffrent frame rates.
