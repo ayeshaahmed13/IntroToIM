@@ -12,8 +12,10 @@
 
 1.The biggest problem that I faced was the fact that when I finally decided that i would want to work with a generative text output, I couldn't decide whether I
 wanted to print it in the console or the canvas. Additionally, working around with the example given in class and making it more creative was a rattling task.
+
 2.I also had a lot of trouble arriving at just the right opacity of each pixel( how bright or dark should an individual pixel be so that the features are enhanced).
 After trying a lot of permutations and combinations I finally arrived at a satisfactory output.
+
 3.Another major problem was the ordeal of debugging my code. I had accidentally replaced the word "height" with "length" due to which the code within the loop
 simply didn't compile.
 
