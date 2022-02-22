@@ -1,3 +1,10 @@
+
+##Generative Text Artwork## <img width="430" alt="Screen Shot 2022-02-22 at 2 30 06 AM" src="https://user-images.githubusercontent.com/98395837/155078591-6b87746c-b28d-4ebd-9c84-c8e52cf742b0.png">
+##Actual Image## <img width="513" alt="Screen Shot 2022-02-22 at 2 23 18 AM" src="https://user-images.githubusercontent.com/98395837/155078732-4e1cbac3-07c6-49f2-a52a-09d3f9f51263.png">
+
+
+
+
 ###Process of Implementation and Problems Faced:###
 
 1.The biggest problem that I faced was the fact that when I finally decided that i would want to work with a generative text output, I couldn't decide whether I
