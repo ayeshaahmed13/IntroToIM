@@ -1,5 +1,4 @@
 ### Initial Concept for the Project:
-
 <img width="522" alt="Screen Shot 2022-03-01 at 9 21 23 AM" src="https://user-images.githubusercontent.com/98395837/156109939-5593c570-d6e2-4353-90e0-be70e24ce4e7.png">
 
 The intention is to devise a game of tic-tac-toe otherwise popularly known as noughts and crosses. It is a two-player game in which two individuals attempt to compete 
@@ -10,8 +9,8 @@ It is a solved game, with a forced draw assuming best play from both players. Th
 Best play refers to  the strategy (or strategies) which produces the most favorable outcome for a player, taking other players' strategies as given.The basis of the game is that  both players play to maximize their win and our assumption of their next most likely move holds high probability.
 
 ### Most Complicated Aspect of the Project:
+<img width="1425" alt="Screen Shot 2022-03-01 at 9 18 37 AM" src="https://user-images.githubusercontent.com/98395837/156119126-84b3a801-6471-4907-817e-25b692a3c80d.png">
 
-<img width="1440" alt="Screen Shot 2022-01-29 at 6 23 29 PM" src="https://user-images.githubusercontent.com/98395837/156109699-2c61e50f-2228-4cbb-96ca-e3cdc1f9bcb0.png">
 
 I think the most complicated aspect of the project is the utilization of the Minimax algorithm and devising all possible outcomes at every stage of the game.In order
 To maximize the probability of a player's victory, we try to maximize their win and minimize their loss.
