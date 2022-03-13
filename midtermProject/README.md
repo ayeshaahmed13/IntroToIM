@@ -42,6 +42,13 @@ The two screens below display both the pixellated and unpixelated version of the
    
   ### Useful links:
    Link to the editor: https://editor.p5js.org/ayeshaahmed13/sketches/um9gqvfHZ
-     Link to the fullscreen version of the game: https://editor.p5js.org/ayeshaahmed13/full/um9gqvfHZ
-       Link to the Journal: https://github.com/ayeshaahmed13/IntroToIM/blob/main/midtermProject/journal.md
+  
+   Link to the fullscreen version of the game: https://editor.p5js.org/ayeshaahmed13/full/um9gqvfHZ
+  
+   Link to the Journal: https://github.com/ayeshaahmed13/IntroToIM/blob/main/midtermProject/journal.md
    
+  ### References:
+  Sound file between each transition : https://mixkit.co/free-sound-effects/bell/
+  Sound file at the end of the game : https://mixkit.co/free-sound-effects/bell/
+
+  
