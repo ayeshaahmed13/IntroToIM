@@ -61,8 +61,8 @@ let screen; // defines the variable utilised to switch between screens
 
 //setup function
 function setup() {
-  createCanvas(640, 550); //defines parameters width and height of canvas 
-  frameRate(5);// controls the rate the speed of which the timer runs
+  createCanvas(640, 550); //defines parameters width and height of canvas
+  frameRate(5); // controls the rate the speed of which the timer runs
   screen = 0; //initializing screen to show homescreen; homescreen is numbered 0
 
   //initializing text parameters
@@ -79,7 +79,7 @@ function draw() {
 
   if (screen == 1) {
     //proceeds on to the game screen
-    gamePlay(); //calls the gamePlay function to start the game; gamescreen is numbered at 1 
+    gamePlay(); //calls the gamePlay function to start the game; gamescreen is numbered at 1
   }
 }
 
@@ -87,7 +87,7 @@ function draw() {
 function mousePressed() {
   if (timer == 0) {
     //transition to next city is executed only if timer has reached 0
-    counter++; //increases counter to access next city object 
+    counter++; //increases counter to access next city object
 
     // resets timer to 10 seconds and pixel size to 13 before looping
     timer = 10;
@@ -98,9 +98,8 @@ function mousePressed() {
 
 //function to define homescreen
 function homeScreen() {
-  
-   image(startImg, 0, 0); //displays start image
-  
+  image(startImg, 0, 0); //displays start image
+
   // Parameters to define text titled "CLICK ANYWHERE TO CONTINUE"
   strokeWeight(2);
   textFont("Courier New");
@@ -108,25 +107,24 @@ function homeScreen() {
   textAlign(CENTER);
   fill(0, 0, 0);
   text("CLICK ANYWHERE TO CONTINUE", width / 2, (4 * height) / 5);
-  
-   // Parameters to define text titled "CITY GUESS"
+
+  // Parameters to define text titled "CITY GUESS"
   strokeWeight(4);
   textSize(50);
   text(" CITY GUESS", width / 2, height / 7);
 
   // Draw a rectangle with certain parameters
-  fill(0, 0, 0, 100);// rect is black with 100 being its opacity parameter
-  rect(340, 270, 270, 250, 20);// rect has rounded corners each having a radius of 20
-  
+  fill(0, 0, 0, 100); // rect is black with 100 being its opacity parameter
+  rect(340, 270, 270, 250, 20); // rect has rounded corners each having a radius of 20
+
   // Parameters to define heading titled "Instructions"
   strokeWeight(4);
   fill(255, 255, 255);
   textSize(30);
   textFont("Georgia");
   text(" Instructions", 330, 200);
-  
-  
- // Parameters to define body containing actual Instructions
+
+  // Parameters to define body containing actual Instructions
   strokeWeight(4);
   textSize(20);
   textFont("Georgia");
@@ -165,7 +163,7 @@ function gamePlay() {
         //displays image (pixelated)
         col = cityImg.get(x, y); //gets the end coordinates of the small square to be pixelated
         stroke(col); //gives outline to the square based on the picture color present in the given coordinate col
-        fill(col);   //fills the square with the color based on the picture color present in the given coordinate col
+        fill(col); //fills the square with the color based on the picture color present in the given coordinate col
         square(x, y, size); //displays the sqaure based on the above defined parameters
       }
     }
@@ -192,7 +190,7 @@ function gamePlay() {
       text(cities[counter].cName, width / 2, 40); //displays the answer at the designated position
 
       textSize(25);
-      text("Click for", width / 2, cityImg.height - 50);// prompts user to navigate to the next city
+      text("Click for", width / 2, cityImg.height - 50); // prompts user to navigate to the next city
       text("next city", width / 2, cityImg.height - 30);
 
       noLoop(); //pauses looping in draw function to prevent display of the same city
@@ -202,7 +200,7 @@ function gamePlay() {
   else if (counter == numCities) {
     music1.play(); //play game over sound
     image(endImg, 0, 0); //play final image and  display the message
-    
+
     //Paramters to define end of the game message
     textSize(50);
     text("Game Over", width / 2, height * 0.55);
@@ -210,3 +208,4 @@ function gamePlay() {
     noLoop(); //pauses looping in draw function
   }
 }
+
