@@ -5,7 +5,7 @@ City Guess is a very user-friendly game in which the player(s) have to attempt t
 
 The welcome screen of the game has the instructions of the game in addition to the title of the game.In order to proceed to the gamescreen, the user is required to click anywhere on the welcome screen. The users are required to go thorough the instructions carefully before beginning.
 
-<img width="651" alt="Screen Shot 2022-03-12 at 11 22 49 PM" src="https://user-images.githubusercontent.com/98395837/158067593-6aebecbc-a4ec-4fcd-a03b-d62b5abda9a5.png">
+<img width="638" alt="Screen Shot 2022-03-13 at 11 13 52 PM" src="https://user-images.githubusercontent.com/98395837/158075349-6a9d4522-0c28-4069-b6b1-a5fdf83cf9ae.png">
 
 Right after clicking on the welcome screen, the game begins by displaying a heavily pixellated image of Rome and the timer automatically begins.In order to tranistion across different cities, the user must click anywhere on the canvas as displayed in the tutorial below.
 
