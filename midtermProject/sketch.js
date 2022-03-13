@@ -163,10 +163,10 @@ function gamePlay() {
         cityImg = cities[counter].cPicture; // displays current city image; unpixelated version
 
         //displays image (pixelated)
-        col = cityImg.get(x, y);
-        stroke(col);// 
-        fill(col);// 
-        square(x, y, size);// defines unpixelation parameter
+        col = cityImg.get(x, y); //gets the end coordinates of the small square to be pixelated
+        stroke(col); //gives outline to the square based on the picture color present in the given coordinate col
+        fill(col);   //fills the square with the color based on the picture color present in the given coordinate col
+        square(x, y, size); //displays the sqaure based on the above defined parameters
       }
     }
     // Timer ticks down and unpixelates the image every frame
