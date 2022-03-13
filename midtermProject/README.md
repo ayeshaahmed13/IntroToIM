@@ -40,7 +40,7 @@ The two screens below display both the pixellated and unpixelated version of the
    - The integration of sound files with the game was very smooth.
    - The unpixellation was very smooth.
    
-    ### Useful links:
+  ### Useful links:
     Link to the editor: https://editor.p5js.org/ayeshaahmed13/sketches/um9gqvfHZ
     Link to the fullscreen version of the game: https://editor.p5js.org/ayeshaahmed13/full/um9gqvfHZ
     Link to the Journal:
