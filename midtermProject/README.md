@@ -11,3 +11,7 @@ Right after clicking on the welcome screen, the game begins by displaying a heav
 
 https://user-images.githubusercontent.com/98395837/158067862-3617f922-0959-4461-87b6-0b3f4a9b8494.mov
 
+The two screens below display both the pixellated and unpixelated version of the city.The image on the left displays the extremely pixellated picture that is observable when the timer begins at 10 and the image on the right displays the completely unpixellated image when the timer reaches 0.
+
+<img width="680" alt="Screen Shot 2022-03-13 at 8 11 57 PM" src="https://user-images.githubusercontent.com/98395837/158070591-01db15f2-5e02-4bb5-a839-4233c8326a36.png">
+<img width="657" alt="Screen Shot 2022-03-13 at 8 12 43 PM" src="https://user-images.githubusercontent.com/98395837/158070615-e13474ba-2076-4416-bb4d-30bcc2ddf202.png">
