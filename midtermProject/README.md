@@ -29,5 +29,19 @@ The two screens below display both the pixellated and unpixelated version of the
    - Clear instructions on the homescreen and intialization of the game by a simple click. 
    - Transition between different cities can be done with a simple click and is clearly demarcated with a distinct sound.
    - Distinct sound at the end of the game helps clarify termination of the game.
-   - When the timer is at 0, irrespective of the amount of pixellation when the timer is at 1, a completed unpixellated image is displayed which reduces the processing power and 
+   - When the timer is at 0, irrespective of the amount of pixellation when the timer is at 1, a completed unpixellated image is displayed which reduces the processing power and increases the speed of the game.
   
+  ### User Centered Feedback:
+  Feedback was gathered by sharing the game with my peers and family.
+  
+   - The cities utilised could be randomised by picking up images and words from a CSV file.
+   - A dropdown box that could collect the probable answer guessed by the player.
+   - The users loved the homescreen and the kangaroo at the end of the game.Many users found the kangaroo very funny.
+   - The integration of sound files with the game was very smooth.
+   - The unpixellation was very smooth.
+   
+    ### Useful links:
+    Link to the editor: https://editor.p5js.org/ayeshaahmed13/sketches/um9gqvfHZ
+    Link to the fullscreen version of the game: https://editor.p5js.org/ayeshaahmed13/full/um9gqvfHZ
+    Link to the Journal:
+    Link to the Intial Idea:
