@@ -1,4 +1,10 @@
-### Initial Concept for the Project:
+# Journal
+## Mid-Term Project:
+### Introduction to Interactive Media| New York University
+
+
+#### Date: 29th February 2022
+#### Initial Concept for the Project:
 <img width="522" alt="Screen Shot 2022-03-01 at 9 21 23 AM" src="https://user-images.githubusercontent.com/98395837/156109939-5593c570-d6e2-4353-90e0-be70e24ce4e7.png">
 
 The intention is to devise a game of tic-tac-toe otherwise popularly known as noughts and crosses. It is a two-player game in which two individuals attempt to compete 
@@ -25,3 +31,39 @@ Firstly, I did a lot of research on what a recursive algorithm is and how exactl
 
 I was able to gain a better understanding of the algorithm by watching multiple Youtube Videos and also by looking at several examples on the internet. I furthered 
 my understanding of this concept by actually implementing the code and tweaking different elements so as to understand the greater need of them in the code.In the coming week I hope to deepen my understanding and improvise my code better.
+
+#### Date: 02nd March 2022
+#### Problems with the Intial Idea:
+Even though I was able to figure the fundamental algorithm that governs the game, I wasn't able to devise a way to acquire user input and then utilise the same to draft subsequent moves. The version of the game that I had devised basically works on taking a randomised input from the computer and drafting subsequent moves on the basis of the algorithm. The algorithm allows for alll probable results ranging from X wins, O wins and a tie. Additionally I wasn't able to find a way to incorporate an image and object oriented programming into the game.
+
+After realising that this may not work, I explored some other games such as Minesweepwer which is practically  a single-player puzzle video game. The objective of the game is to clear a rectangular board containing hidden "mines" or bombs without detonating any of them, with help from clues about the number of neighbouring mines in each field. The player wins the game if they clear all the squares without detonating any bombs.Even though I was able to devise the preliminary interface and the fundamental section of the game, transition between screens, incorporating images and aligning teh sound file each time a bomb denotes proved to be very herculean
+
+![image](https://user-images.githubusercontent.com/98395837/160505476-4662e829-4d84-4f0c-abd2-505df54240b8.png)
+
+After realising that this may not work, I explored some other games such as Minesweepwer which is practically  a single-player puzzle video game. The objective of the game is to clear a rectangular board containing hidden "mines" or bombs without detonating any of them, with help from clues about the number of neighbouring mines in each field. The player wins the game if they clear all the squares without detonating any bombs.Even though I was able to devise the preliminary interface and the fundamental section of the game, transition between screens, incorporating images and aligning teh sound file each time a bomb denotes proved to be very herculean.
+
+#### Date: 05th March 2022
+#### Intial concept for the Game:
+As a person who loves travelling and is driven by the wanderlust I play the game GeoGuessr a lot which is basically a virtual reality game in which the player navigates through a virtual version of a city and looks for clues and tries to guess its location looking at signboards,cars and houses around.Inspired from this game I wanted to replicate this game, but since I wasn't able to literally translate the 3D-version, I devised a slightly modified  2D version which incolves identfying a city on the basis of famous monuments.
+
+![image](https://user-images.githubusercontent.com/98395837/160505324-4daa46c3-ff3b-4798-af68-7e1decbce59f.png)
+As a person who loves travelling and is driven by the wanderlust I play the game GeoGuessr a lot which is basically a virtual reality game in which the player navigates through a virtual version of a city and looks for clues and tries to guess its location looking at signboards,cars and houses around.Inspired from this game I wanted to replicate this game, but since I wasn't able to literally translate the 3D-version, I devised a slightly modified  2D version which incolves identfying a city on the basis of famous monuments.
+#### Problems and Complications:
+- Aligning the frame rate with the timer was a hassle.
+- Figuring a set pattern for unpixelation.
+- Devising a way to minimise loading power; basically working on unpixelation.
+- Limiting the movement to a new city (new screen) only after the timer has reached zero.
+- Clearing the screen everytime a city appears, to prevent overlap.
+- Utilising loop function in the code judiciously to prevent repetition of the same city.
+- Creating an array to store the names of the cities and their images and aligning them.
+
+### Solutions:
+I arrived at the solutions by taking help from several Youtube videos, some online Github repositories and by immense periods of trial and error.
+- Alignment was of frame rate and timer was doene by setting up a counter.
+- Unpixelation occurs by a square size of 13 pixels.
+- When the timer reaches 0, irrespective of the amount of unpixelation, the completely unpixelated image is displayed.
+- By setting a mouse pressed function only for the unpixelated picture.
+- Screen is cleared by using clear()
+- utilisationof loop and and no loop
+- The format of navigation through each city is clearly defined.
+
