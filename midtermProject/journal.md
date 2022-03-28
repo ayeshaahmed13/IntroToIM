@@ -47,6 +47,7 @@ After realising that this may not work, I explored some other games such as Mine
 As a person who loves travelling and is driven by the wanderlust I play the game GeoGuessr a lot which is basically a virtual reality game in which the player navigates through a virtual version of a city and looks for clues and tries to guess its location looking at signboards,cars and houses around.Inspired from this game I wanted to replicate this game, but since I wasn't able to literally translate the 3D-version, I devised a slightly modified  2D version which incolves identfying a city on the basis of famous monuments.
 
 ![image](https://user-images.githubusercontent.com/98395837/160505324-4daa46c3-ff3b-4798-af68-7e1decbce59f.png)
+
 As a person who loves travelling and is driven by the wanderlust I play the game GeoGuessr a lot which is basically a virtual reality game in which the player navigates through a virtual version of a city and looks for clues and tries to guess its location looking at signboards,cars and houses around.Inspired from this game I wanted to replicate this game, but since I wasn't able to literally translate the 3D-version, I devised a slightly modified  2D version which incolves identfying a city on the basis of famous monuments.
 #### Problems and Complications:
 - Aligning the frame rate with the timer was a hassle.
