@@ -24,9 +24,11 @@ The car tyres are lined with conductors and so is the parking curb.Everytime the
 
 ### Pictures:
 ![WhatsApp Image 2022-03-31 at 10 30 43 AM](https://user-images.githubusercontent.com/98395837/161000603-11e21fe1-4c5f-49c9-bc24-27e45d00b566.jpeg)
+
 Non-illuminated LED when the car is at a distance from the parking curb.
 
 ![WhatsApp Image 2022-03-31 at 10 30 44 AM](https://user-images.githubusercontent.com/98395837/161000648-0a44d8d9-9e5f-48c2-8b3a-40223393cd05.jpeg)
+
 Illuminated LED when the car tyres touch the parking curb.
 
 ### Video:
@@ -35,7 +37,7 @@ https://user-images.githubusercontent.com/98395837/161002989-9581ed91-cc64-42ec-
 Working of the Switch
 
 ### Problems and Solutions:
--The lack of conducting tape and other materials prevented me from implementing my intial idea.In their absence, I modified my idea.
+- The lack of conducting tape and other materials prevented me from implementing my intial idea.In their absence, I modified my idea.
 - The connecting wires kept touching each other repeatedly for which I had to cahnge the orientation of my setup slightly.
 - The aluminium foil lining the tyres kept falling off, despite gluing it. I lined the conducting wires around the tyres in such a manner that a foil is held in place.
 - I had trouble getting hands on aluminium foil but I finally managed to get some from my friend.
