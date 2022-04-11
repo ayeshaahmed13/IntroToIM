@@ -28,7 +28,6 @@ We attempted to make a very innovative and green version of a normal piano that 
 
 ![IMG_0131](https://user-images.githubusercontent.com/98395837/162844108-30b7e5ae-886e-4576-b264-d94076b86919.jpg)
 ![IMG_0132](https://user-images.githubusercontent.com/98395837/162844133-a1f7704c-a6ad-4c0b-b468-653feb61f6fe.jpg)
-![IMG_0130](https://user-images.githubusercontent.com/98395837/162844159-054b3938-201f-4cba-a6a5-0ad85bf21b74.jpg)
 
 ### Video:
 
