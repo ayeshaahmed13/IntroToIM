@@ -1,3 +1,6 @@
+# Musical Instrument:
+## Banana Piano:
+
 ### Description:
 
 We attempted to make a very innovative and green version of a normal piano that utilizes bananas.  We utilized seven bananas that replicate the seven distinct musical notes and a combination of all of these can be utilized to produce a variety of music.Each banana behaves as a capacitive sensor that produces a distinct note as soon as the pressure exceeds a certain limit.The piano incorporates both an analog sensor( which in this case is pressing the banana) and a digital sensor(switch). The piano also has a LED light to indicate whether the circuit is complete or not.
@@ -23,21 +26,19 @@ We attempted to make a very innovative and green version of a normal piano that 
 
 
 ### Pictures:
-
-![IMG_0![IMG_0131](https://user-images.githubusercontent.com/98395837/162841667-a2c0bf3e-38ad-416c-8734-98a88f56006d.png)
-132]
-(https://user-images.githubusercontent.com/98395837/162841638-d281b43d-4018-4409-a0e1-45a3b6fb4fc5.png)
+![image1](https://user-images.githubusercontent.com/98395837/162842841-8e16f401-eca9-4ef3-985c-90ef28e877a7.png)
+![Image2](https://user-images.githubusercontent.com/98395837/162842935-e2c1679c-d222-426d-a8c5-701079e11d0f.png)
 
 ### Video:
 
-https://user-images.githubusercontent.com/98395837/162841722-c44ad83a-f853-45c3-bdb4-857622aa60e6.MOV
+https://user-images.githubusercontent.com/98395837/162843030-6ed93ff9-055e-412e-918c-51bd6db53160.mp4
 
 ### Problems:
--The presence of a small breadboard made wiring really difficult and confusing.
--The lack of conducting paint prevented us from creating an actual piano.
--The lack of properly ripe bananas at the convenience store made us remove an additional note that we wanted to incorporate.
--Due to lack of time we weren’t able to materialize our initial ideas.
--The inability of the code to compile due to file size errors despite everything being well within the limit.
+- The presence of a small breadboard made wiring really difficult and confusing.
+- The lack of conducting paint prevented us from creating an actual piano.
+- The lack of properly ripe bananas at the convenience store made us remove an additional note that we wanted to incorporate.
+- Due to lack of time we weren’t able to materialize our initial ideas.
+- The inability of the code to compile due to file size errors despite everything being well within the limit.
 
  ### Discoveries:
 - The biggest discovery that we made is that the ripeness of the banana significantly affects the capacitive sensor. The ripeness of the bananas needs to be just adequate for the buzzer to beep.( too raw or ripe bananas can significantly hamper the circuit)
