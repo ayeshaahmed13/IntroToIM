@@ -26,12 +26,13 @@ We attempted to make a very innovative and green version of a normal piano that 
 
 
 ### Pictures:
-![image1](https://user-images.githubusercontent.com/98395837/162842841-8e16f401-eca9-4ef3-985c-90ef28e877a7.png)
-![Image2](https://user-images.githubusercontent.com/98395837/162842935-e2c1679c-d222-426d-a8c5-701079e11d0f.png)
+![image1](https://user-images.githubusercontent.com/98395837/162843328-f4181316-8b8e-459f-b832-06f6d501fa22.jpg)
+
+![Image2](https://user-images.githubusercontent.com/98395837/162843425-33316410-d343-4ab3-9022-ae33930775dc.jpg)
 
 ### Video:
 
-https://user-images.githubusercontent.com/98395837/162843030-6ed93ff9-055e-412e-918c-51bd6db53160.mp4
+
 
 ### Problems:
 - The presence of a small breadboard made wiring really difficult and confusing.
