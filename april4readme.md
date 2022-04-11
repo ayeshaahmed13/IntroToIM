@@ -2,6 +2,9 @@
 
 We attempted to make a very innovative and green version of a normal piano that utilizes bananas.  We utilized seven bananas that replicate the seven distinct musical notes and a combination of all of these can be utilized to produce a variety of music.Each banana behaves as a capacitive sensor that produces a distinct note as soon as the pressure exceeds a certain limit.The piano incorporates both an analog sensor( which in this case is pressing the banana) and a digital sensor(switch). The piano also has a LED light to indicate whether the circuit is complete or not.
 
+![image](https://user-images.githubusercontent.com/98395837/162841472-ed3c316e-ee7b-4b63-b64c-bb38d5b16585.png)
+
+
 ### Overview of the Development process:
 
 The prospect of making a musical instrument excited  both of us a lot and both of us were flooded with a lot of ideas. We thought of making a drum with perhaps a tin box or  a musical flick or even a guitar pedal. However subsequently we realized that in order to materialize these ideas, we needed a lot more time and adequate materials on our hands owing to which we weren’t able to go ahead with it.
@@ -21,7 +24,13 @@ The next obstacle was incorporating a toggle switch into the circuit. Since it h
 
 ### Pictures:
 
+![IMG_0![IMG_0131](https://user-images.githubusercontent.com/98395837/162841667-a2c0bf3e-38ad-416c-8734-98a88f56006d.png)
+132]
+(https://user-images.githubusercontent.com/98395837/162841638-d281b43d-4018-4409-a0e1-45a3b6fb4fc5.png)
+
 ### Video:
+
+https://user-images.githubusercontent.com/98395837/162841722-c44ad83a-f853-45c3-bdb4-857622aa60e6.MOV
 
 ### Problems:
 -The presence of a small breadboard made wiring really difficult and confusing.
@@ -37,4 +46,6 @@ The next obstacle was incorporating a toggle switch into the circuit. Since it h
 
  ### References:
 https://playground.arduino.cc/Main/CapacitiveSensor/
+https://www.youtube.com/watch?v=sqQzIN7G6Oc&t=21s
+https://www.mrelectrouino.com/2019/08/arduino-piano-diy-conductive-paint.html
 
