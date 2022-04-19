@@ -32,7 +32,7 @@ Making the LED turn on when the ball bounces, and controlling the wind from an a
 - There was already a condition in the example that checked whether the ball was touching the ground or not. 
 - We just added an additional statement in this block of code to send a value of "1" to the arduino if it was touching the ground and "0" otherwise. 
 - The arduino code handled these values of 1 and 0 to control the LED. -If the value received from p5js was 1, the LED turns on. 
-- -If 0, turn the LED off.
+- If 0, turn the LED off.
 
 https://user-images.githubusercontent.com/98395837/163927624-b86d6e84-90da-4058-b10d-1d1c71b9aa6d.mp4
 
