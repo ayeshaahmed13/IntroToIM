@@ -22,7 +22,7 @@ change.
 #### Pictures:
 ![Image 1](https://user-images.githubusercontent.com/98395837/169257060-52595c6d-504c-4bdd-9d90-d812c4245aa8.jpeg)
 
-[Image 2](https://user-images.githubusercontent.com/98395837/169254515-0f34b058-2be7-43f1-b476-235cf64b91d0.jpeg)
+![Image 2](https://user-images.githubusercontent.com/98395837/169254515-0f34b058-2be7-43f1-b476-235cf64b91d0.jpeg)
 
 
 #### Video:
